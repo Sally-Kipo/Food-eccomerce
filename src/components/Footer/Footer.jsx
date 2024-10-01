@@ -1,4 +1,3 @@
-
 import './Footer.css'
 import { assets } from '../../assets/assets'
 
